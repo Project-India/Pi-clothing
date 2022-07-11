@@ -1,4 +1,4 @@
-# pi-clothin
+# pi-clothing
 HTML Edit Of qb-clothing
 
 # Installation
