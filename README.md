@@ -8,4 +8,4 @@ Just Drag And Drop qb-clothing Folder And Delete The Existing qb-clothing Folder
 
 For Support Join Our Discord
 
-https://discord.gg/y2h3NNxydu
+https://discord.gg/Kd5B3KPnTv
